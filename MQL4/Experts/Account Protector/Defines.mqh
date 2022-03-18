@@ -52,7 +52,8 @@ enum Position_Status
 {
     All,
     Losing,
-    Profitable
+    Profitable,
+    Furthest
 };
 
 // Used as a class property to store the currently triggered condition.
